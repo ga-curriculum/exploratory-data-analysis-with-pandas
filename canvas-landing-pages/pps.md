@@ -1,4 +1,3 @@
-<!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
   <span class="headline">Exploratory Data Analysis With Pandas</span>
@@ -10,8 +9,8 @@ In this module, you'll explore the essentials of Exploratory Data Analysis (EDA)
 
 ## Content
 
-| Lesson                                                               | Skills                                                                                                                        |
-| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Lesson                                                                | Skills                                                                                                                        |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | [Setup](../setup/README.md)                                           | Setting up the development environment.                                                                                       |
 | [Intro to Data Analytics](../intro-to-data-analytics/README.md)       | Understand the application of python in extracting and preparing data for analysis                                            |
 | [Pandas](../pandas/README.md)                                         | Using Pandas for data manipulation, including reading data sets, investigating data integrity, and applying basic methods.    |

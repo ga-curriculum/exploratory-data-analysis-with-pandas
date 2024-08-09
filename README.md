@@ -5,7 +5,7 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+In this module, you'll explore the essentials of Exploratory Data Analysis (EDA) with Pandas, a versatile Python library. You'll learn to read, manipulate, filter, and sort data, uncovering valuable insights through hands-on exercises and practical applications. This will lay a strong foundation for advanced data analysis tasks.
 
 ## Suggested Agenda
 
@@ -19,13 +19,13 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ## Content
 
-| Lesson                                                               | Skills                                                                           |
-| -------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| [Setup](./setup/README.md)                                           | Setting up the development environment.                                          |
-| [Intro to Data Analytics](./intro-to-data-analytics/README.md)       | tktk skills covered                                                              |
-| [Pandas](./pandas/README.md)                                         | tktk skills covered                                                              |
-| [Filtering and Sorting Data](./filtering-and-sorting-data/README.md) | tktk skills covered                                                              |
-| [Wrap Up](./wrap-up/README.md)                                       | Reviewing key concepts, ensuring comprehension, and preparing for the next topic |
+| Lesson                                                               | Skills                                                                                                                        |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [Setup](./setup/README.md)                                           | Setting up the development environment.                                                                                       |
+| [Intro to Data Analytics](./intro-to-data-analytics/README.md)       | Understand the application of python in extracting and preparing data for analysis                                            |
+| [Pandas](./pandas/README.md)                                         | Using Pandas for data manipulation, including reading data sets, investigating data integrity, and applying basic methods.    |
+| [Filtering and Sorting Data](./filtering-and-sorting-data/README.md) | Applying Boolean filtering to create subsets of data, sorting data within DataFrames, and chaining methods for data analysis. |
+| [Wrap Up](./wrap-up/README.md)                                       | Reviewing key concepts, ensuring comprehension, and preparing for the next topic                                              |
 
 ## References
 
