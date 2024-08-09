@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Exploratory Data Analysis With Pandas</span>
   <span class="subhead">References</span>
 </h1>
 

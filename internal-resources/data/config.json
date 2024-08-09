@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "[tktk Module Name]",
-    "name": "tktk",
+    "friendlyName": "Exploratory Data Analysis With Pandas",
+    "name": "exploratory-data-analysis-with-pandas",
     "type": "Lesson"
   },
   "courses": [
@@ -20,21 +20,83 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "Concepts",
-          "dirName": "concepts",
+          "friendlyName": "Intro to Data Analytics",
+          "dirName": "intro-to-data-analytics",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Microlesson 01",
-          "dirName": "microlesson-01",
+          "friendlyName": "Pandas",
+          "dirName": "pandas",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Microlesson 02",
-          "dirName": "microlesson-02",
-          "type": "Level Up content",
+          "friendlyName": "Filtering and Sorting Data",
+          "dirName": "filtering-and-sorting-data",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Wrap Up",
+          "dirName": "wrap-up",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false
+    },
+    {
+      "name": "dataAnalytics",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Intro to Data Analytics",
+          "dirName": "intro-to-data-analytics",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Pandas",
+          "dirName": "pandas",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Filtering and Sorting Data",
+          "dirName": "filtering-and-sorting-data",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Wrap Up",
+          "dirName": "wrap-up",
+          "type": "Content",
           "videoUrl": ""
         }
       ],

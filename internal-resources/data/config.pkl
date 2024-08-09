@@ -10,9 +10,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Module Name]"
+  friendlyName = "Exploratory Data Analysis With Pandas"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk"
+  name = "exploratory-data-analysis-with-pandas"
   type = "Lesson"
 }
 
@@ -23,12 +23,21 @@ courses {
     microlessons {
       // add microlessons here, in the order they should be delivered
       mls.setup
-      mls.concepts
-      mls.microlesson01
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.microlesson02) {
-        type = "Level Up content"
-      }
+      mls.introToDataAnalytics
+      mls.pandas
+      mls.filteringAndSortingData
+      mls.wrapUp
     }
   }
+  new {
+    name = "dataAnalytics"
+    microlessons {
+      mls.setup
+      mls.introToDataAnalytics
+      mls.pandas
+      mls.filteringAndSortingData
+      mls.wrapUp
+    }
+  }
+
 }

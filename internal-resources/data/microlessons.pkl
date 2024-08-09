@@ -9,24 +9,30 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+introToDataAnalytics = new Template.Microlesson {
+  friendlyName = "Intro to Data Analytics"
+  dirName = "intro-to-data-analytics"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+pandas = new Template.Microlesson {
+  friendlyName = "Pandas"
+  dirName = "pandas"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+filteringAndSortingData = new Template.Microlesson {
+  friendlyName = "Filtering and Sorting Data"
+  dirName = "filtering-and-sorting-data"
   type = "Content"
   videoUrl = ""
 }
 
+wrapUp = new Template.Microlesson {
+  friendlyName = "Wrap Up"
+  dirName = "wrap-up"
+  type = "Content"
+  videoUrl = ""
+}
