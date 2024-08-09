@@ -30,7 +30,7 @@ courses {
     }
   }
   new {
-    name = "dataAnalytics"
+    name = "pps"
     microlessons {
       mls.setup
       mls.introToDataAnalytics
