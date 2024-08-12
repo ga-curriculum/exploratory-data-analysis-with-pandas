@@ -149,7 +149,7 @@ Note that you must grab the column to use these methods, i.e., `df['Color'].valu
 
 ## Guided Walk-Through: 8.1 Exploring the Superstore Data 15 min TKTK
 
-We’ll use the Superstore data set to practice exploring data with Pandas. We will be looking at a single table from this database — the “Orders” table — to explore its properties.
+We’ll use the Superstore data set to practice exploring data with Pandas. We will be looking at a single table from this database — the "Orders" table — to explore its properties.
 
 ![Image Placeholder](TKTK)
 
