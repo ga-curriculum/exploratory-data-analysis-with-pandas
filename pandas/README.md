@@ -111,7 +111,7 @@ pd.DataFrame(data_frame.dtypes, columns=['DataType'])
 
 <br>
 
-<div class="activity knowledge-check">
+<div class="activity discussion">
   <h2 class="title">Why Investigate Data Types?</h2>
   <span class="minutes"></span>
 </div>
