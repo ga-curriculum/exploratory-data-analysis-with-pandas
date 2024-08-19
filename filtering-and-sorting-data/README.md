@@ -82,9 +82,14 @@ The parentheses here are very important! Leaving them out will usually trigger a
 
 > You can get even more complex with your conditions, but don’t forget to use parentheses to group conditions together.
 
-## Solo Exercise: 8.3 Boolean Filtering 15 min TKTK
+<br>
 
-Use Boolean filtering to narrow down the DataFrame in **Section 8.3** of your workbook.
+<div class="activity solo-exercise">
+  <h2 class="title">1.3 Boolean Filtering</h2>
+  <span class="minutes">10 min</span>
+</div>
+
+Use Boolean filtering to narrow down the DataFrame in **Section 1.3** of your workbook.
 
 ![Image Placeholder](TKTK)
 
@@ -120,7 +125,12 @@ Note the two brackets, which mean that the result will be a DataFrame. We could 
 data_frame.sort_values(by="points_scored").iloc[0]["player_name"]
 ```
 
-## Discussion: Key Definitions Recap TKTK
+<br>
+
+<div class="activity discussion">
+  <h2 class="title">Key Definitions Recap</h2>
+  <span class="minutes"></span>
+</div>
 
 While working with Pandas, it will be important to distinguish between Series and DataFrame objects.
 
@@ -128,7 +138,12 @@ While working with Pandas, it will be important to distinguish between Series an
 
 - What are their differences and similarities?
 
-## Group Exercise: 8.4 Sorting and Filtering 25 min TKTK
+<br>
+
+<div class="activity group-exercise">
+  <h2 class="title">1.4 Sorting and Filtering</h2>
+  <span class="minutes">25 min</span>
+</div>
 
 Use sorting and filtering methods to explore the attributes of a data set and answer stakeholder questions.
 

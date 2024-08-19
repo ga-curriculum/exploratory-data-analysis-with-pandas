@@ -29,7 +29,7 @@ In a nutshell, exploratory data analysis (EDA) means **"getting to know" a data 
 
 ![Image Placeholder](TKTK)
 
-> 🍎 It's common to reach a later point in the Data Analytics Workflow only to realize that unclean data or a particular feature could have been engineered earlier in the process. Exploring the data first makes working with it later much more reliable. Hypothesis-driven EDA is essential for effective EDA, otherwise, we would be endlessly mining our data for answers.
+> 💡 It's common to reach a later point in the Data Analytics Workflow only to realize that unclean data or a particular feature could have been engineered earlier in the process. Exploring the data first makes working with it later much more reliable. Hypothesis-driven EDA is essential for effective EDA, otherwise, we would be endlessly mining our data for answers.
 
 ## Exploratory Data Analysis Best Practices
 
@@ -53,7 +53,7 @@ At the very least, as part of EDA, you should determine:
 
 ![Image Placeholder](TKTK)
 
-> 🍎 One of the most challenging parts of data analytics can be turning business questions into analyses, or even forming your own questions when the request you receive is vague. You can start by asking these two questions. Answering them will also help you figure out what to do with your projects.
+> 💡 One of the most challenging parts of data analytics can be turning business questions into analyses, or even forming your own questions when the request you receive is vague. You can start by asking these two questions. Answering them will also help you figure out what to do with your projects.
 
 ## Reading a Data Set
 
@@ -109,7 +109,12 @@ Easy-to-read DataFrame of the data types:
 pd.DataFrame(data_frame.dtypes, columns=['DataType'])
 ```
 
-## Discussion: Why Investigate Data Types? TKTK
+<br>
+
+<div class="activity knowledge-check">
+  <h2 class="title">Why Investigate Data Types?</h2>
+  <span class="minutes"></span>
+</div>
 
 Why would we be interested in the data types as one of our first questions?
 
@@ -133,7 +138,7 @@ df.rename(columns={'OldName': 'NewName'}, inplace=True).head(3)
 
 - The `inplace` option determines whether we’re creating a new DataFrame or modifying the original directly. `inplace=True` means we are overwriting the original!
 
-> 🍎 When introducing new topics, it can be needlessly complex to throw out multiple options for accomplishing a single task, so, for now, we will recommending just one specific way of renaming columns. There are other ways you can explore on your own.
+> 💡 When introducing new topics, it can be needlessly complex to throw out multiple options for accomplishing a single task, so, for now, we will recommending just one specific way of renaming columns. There are other ways you can explore on your own.
 
 ## Common Column Operations
 
@@ -147,7 +152,12 @@ df.rename(columns={'OldName': 'NewName'}, inplace=True).head(3)
 
 Note that you must grab the column to use these methods, i.e., `df['Color'].value_counts()`.
 
-## Guided Walk-Through: 8.1 Exploring the Superstore Data 15 min TKTK
+<br>
+
+<div class="activity guided-walkthrough">
+  <h2 class="title">1.1 Exploring the Superstore Data</h2>
+  <span class="minutes">15 min</span>
+</div>
 
 We’ll use the Superstore data set to practice exploring data with Pandas. We will be looking at a single table from this database — the "Orders" table — to explore its properties.
 
@@ -158,8 +168,13 @@ In this exercise we will:
 - Run through each of the cells and discuss the patterns one follows when encountering a data set for the first time.
 - Demonstrate how to read Pandas docs when choosing the appropriate methods
 
-## Partner Exercise: 8.2 Explore Another Table 20 min TKTK
+<br>
 
-Answer the questions in **Section 8.2** by using the column operations methods. You may want to start with some of the same exploratory methods we just used.
+<div class="activity partner-exercise">
+  <h2 class="title">1.2 Explore Another Table</h2>
+  <span class="minutes">20 min</span>
+</div>
+
+Answer the questions in **Section 1.2** by using the column operations methods. You may want to start with some of the same exploratory methods we just used.
 
 ![Image Placeholder](TKTK)
