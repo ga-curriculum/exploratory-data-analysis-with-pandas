@@ -15,7 +15,7 @@
 - Use DataFrame attributes and methods to investigate a data set’s integrity.
 - Apply filters and sorting to DataFrames.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 ## The Data Analytics Workflow
 

@@ -91,7 +91,7 @@ The parentheses here are very important! Leaving them out will usually trigger a
 
 Use Boolean filtering to narrow down the DataFrame in **Section 1.3** of your workbook.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 ## Sorting
 
@@ -147,4 +147,4 @@ While working with Pandas, it will be important to distinguish between Series an
 
 Use sorting and filtering methods to explore the attributes of a data set and answer stakeholder questions.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
