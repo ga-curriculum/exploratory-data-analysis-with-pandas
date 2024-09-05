@@ -27,7 +27,7 @@ In a nutshell, exploratory data analysis (EDA) means **"getting to know" a data 
 - Identifying potential **trends or outliers**.
 - **Basic visualization** of your data.
 
-<img src="./assets/data-trend.png" alt="Data Trend Chart Image" style="width: 500px; height: auto;">
+<img src="./assets/data-trend.png" alt="Data Trend Chart Image" style="width: 300px; height: auto;">
 
 > 💡 It's common to reach a later point in the Data Analytics Workflow only to realize that unclean data or a particular feature could have been engineered earlier in the process. Exploring the data first makes working with it later much more reliable. Hypothesis-driven EDA is essential for effective EDA, otherwise, we would be endlessly mining our data for answers.
 
@@ -160,7 +160,7 @@ Note that you must grab the column to use these methods, i.e., `df['Color'].valu
 
 We’ll use the Superstore data set to practice exploring data with Pandas. We will be looking at a single table from this database — the "Orders" table — to explore its properties.
 
-<img src="./assets/shopping-cart.png" alt="Shopping Cart Image" style="width: 500px; height: auto;">
+<img src="./assets/shopping-cart.png" alt="Shopping Cart Image" style="width: 300px; height: auto;">
 
 In this exercise we will:
 

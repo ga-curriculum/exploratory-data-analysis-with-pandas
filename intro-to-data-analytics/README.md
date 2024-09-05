@@ -23,4 +23,4 @@
 - **Wrangle/Prepare:** Clean and prepare relevant data.
 - **Analyze:** Structure, comprehend, and visualize data.
 
-![The Data Analytics Workflow - Extract + Prepare + Analyze](./assets/workflow-3.png)
+<img src="./assets/workflow-3.png" alt="The Data Analytics Workflow - Extract + Prepare + Analyze" style="width: 500px; height: auto;">
