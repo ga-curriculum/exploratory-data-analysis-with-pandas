@@ -42,7 +42,7 @@ At the very least, as part of EDA, you should determine:
 - **The number of columns** in the data set.
   - What does each column represent? How was that data collected? Try using a data dictionary — it can often directly answer these questions for you!
 
-<img src="./assets/clipbaord.png" alt="Clipboard Image" style="width: 300px; height: auto;">
+<img src="./assets/clipboard.png" alt="Clipboard Image" style="width: 300px; height: auto;">
 
 ## From Questions to Hypotheses
 
@@ -160,7 +160,7 @@ Note that you must grab the column to use these methods, i.e., `df['Color'].valu
 
 We’ll use the Superstore data set to practice exploring data with Pandas. We will be looking at a single table from this database — the "Orders" table — to explore its properties.
 
-<img src="./assets//shopping-cart.png" alt="Shopping Cart Image" style="width: 500px; height: auto;">
+<img src="./assets/shopping-cart.png" alt="Shopping Cart Image" style="width: 500px; height: auto;">
 
 In this exercise we will:
 
