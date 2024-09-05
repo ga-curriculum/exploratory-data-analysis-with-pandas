@@ -15,7 +15,7 @@
 
 Pandas is a versatile toolbox that can be used for all of our data exploration needs. (Think Excel or Google Sheets, but much faster and with way more flexibility!)
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/open-book.png" alt="Open Book Image" style="width: 300px; height: auto;">
 
 ## Exploratory Data Analysis: Definition
 
@@ -27,7 +27,7 @@ In a nutshell, exploratory data analysis (EDA) means **"getting to know" a data 
 - Identifying potential **trends or outliers**.
 - **Basic visualization** of your data.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/data-trend.png" alt="Data Trend Chart Image" style="width: 500px; height: auto;">
 
 > 💡 It's common to reach a later point in the Data Analytics Workflow only to realize that unclean data or a particular feature could have been engineered earlier in the process. Exploring the data first makes working with it later much more reliable. Hypothesis-driven EDA is essential for effective EDA, otherwise, we would be endlessly mining our data for answers.
 
@@ -42,7 +42,7 @@ At the very least, as part of EDA, you should determine:
 - **The number of columns** in the data set.
   - What does each column represent? How was that data collected? Try using a data dictionary — it can often directly answer these questions for you!
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/clipbaord.png" alt="Clipboard Image" style="width: 300px; height: auto;">
 
 ## From Questions to Hypotheses
 
@@ -51,7 +51,6 @@ At the very least, as part of EDA, you should determine:
 - What **fields can I COMBINE** to find interesting insights?
 - What **ACTIONS can someone take** as a result of my charts and analyses?
 
-<!-- ![Image Placeholder](TKTK) -->
 
 > 💡 One of the most challenging parts of data analytics can be turning business questions into analyses, or even forming your own questions when the request you receive is vague. You can start by asking these two questions. Answering them will also help you figure out what to do with your projects.
 
@@ -161,7 +160,7 @@ Note that you must grab the column to use these methods, i.e., `df['Color'].valu
 
 We’ll use the Superstore data set to practice exploring data with Pandas. We will be looking at a single table from this database — the "Orders" table — to explore its properties.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets//shopping-cart.png" alt="Shopping Cart Image" style="width: 500px; height: auto;">
 
 In this exercise we will:
 
@@ -177,4 +176,4 @@ In this exercise we will:
 
 Answer the questions in **Section 1.2** by using the column operations methods. You may want to start with some of the same exploratory methods we just used.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/magnifying-glass.png" alt="Magnifying Glass Image" style="width: 300px; height: auto;">

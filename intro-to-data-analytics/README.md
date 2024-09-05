@@ -15,7 +15,7 @@
 - Use DataFrame attributes and methods to investigate a data set’s integrity.
 - Apply filters and sorting to DataFrames.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/learning-objectives.png" alt="Clipboard Image" style="width: 300px; height: auto;">
 
 ## The Data Analytics Workflow
 
@@ -23,4 +23,4 @@
 - **Wrangle/Prepare:** Clean and prepare relevant data.
 - **Analyze:** Structure, comprehend, and visualize data.
 
-![Image Placeholder](./assets/workflow.png)
+![The Data Analytics Workflow - Extract + Prepare + Analyze](./assets/workflow-3.png)
